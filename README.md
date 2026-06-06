@@ -3,19 +3,18 @@
 **Applied ML | Computer Vision | AI Tutoring Systems | Research Tooling**  
 Naperville, Illinois
 
-I am a new Computer Science & Engineering graduate focused on practical AI/ML systems, especially where Python, computer vision, structured tutoring, and research workflows meet. I am currently packaging my academic research, technical teaching work, and applied ML projects into public GitHub evidence while strengthening Git/GitHub, SQL, testing, APIs, and no-AI coding fluency.
+I am completing my B.S. in Computer Science & Engineering, with degree conferral expected on July 31, 2026, but I have been doing independent research for a few years now. My research is a strong passion of mine, and the subjects have varied, but I have mainly focused on practical AI/ML systems, especially where Python, computer vision, structured teaching, and research workflows meet. I am currently packaging my academic research, technical teaching work, and applied ML projects into organized repositories for resume and portfolio purposes. That being said, this GitHub is not just for employers, but also for anyone interested in the R&D of responsible and reproducible AI use.
 
-I am looking for a first technical role where I can write code, automate workflows, support data or ML systems, and keep improving as an engineer. I care more about useful technical growth than prestige.
+I am looking for a first technical role where I can write code, automate workflows, support data or ML systems, and keep improving as an engineer. That being said, I am adaptable to most technical positions because I understand that computer science tools and workflows are constantly changing. My specialty is not only the work I have done, but also the compounding tools and workflows I have built to help me efficiently learn, practice, and create for the future.
 
 ---
 
 ## Current focus
 
 - Applied machine learning and computer vision
-- Python, PyTorch, OpenCV, NumPy, and scikit-learn
-- LLM tutoring protocols and JSON/state-based interaction design
+- Python automation
+- LLM instructional protocols, both at the interaction level and with external scripting
 - Technical teaching, research writing, and educational tooling
-- GitHub portfolio packaging, testing, SQL, and interview coding fluency
 
 ---
 
@@ -23,7 +22,7 @@ I am looking for a first technical role where I can write code, automate workflo
 
 ### MMA-TP — Modular Multi-State AI Teaching Protocol
 
-Original creator and corresponding author of **MMA-TP**, a published protocol-level framework for structuring multi-turn LLM tutoring interactions through paired system prompts and JSON-based state specifications.
+Original creator and corresponding author of **MMA-TP**, a published protocol-level framework for structuring multi-turn LLM tutoring interactions through paired system prompts and JSON-based state specifications. The end product is a copy-and-paste AI tutor protocol that can be executed by major LLMs and tailored or edited by employers, team leads, or educators.
 
 The protocol focuses on:
 
@@ -66,35 +65,31 @@ Author of a free, code-backed educational guide on deep learning foundations. Th
 
 > plain English → conceptual math → code implementation → plain-English interpretation
 
-Topics include preprocessing, tensors, NumPy, PyTorch workflows, MLPs, CNNs, RNNs, and foundational neural-network reasoning. The guide was created from tutoring needs and is being prepared for public release.
+Topics include preprocessing, tensors, NumPy, PyTorch workflows, MLPs, CNNs, RNNs, and foundational neural-network reasoning. The guide was originally created as a tutoring tool, but after strong positive feedback, it is being polished for a free public release.
 
 ---
 
 ## Technical areas
 
 **ML / Computer Vision:** Python, PyTorch, OpenCV, NumPy, scikit-learn, model evaluation, CNNs, train/validation/test design, thresholding, error analysis  
-**LLM / AI Systems:** structured prompting, JSON specifications, state-based tutor workflows, gating, diagnostic signals, response constraints  
+
 **Software / CS:** Java, C++, JavaScript, HTML/CSS, PySide6/Qt, Linux/terminal basics, OOP, data structures, operating systems, computer architecture  
-**Currently strengthening:** Git/GitHub, SQL, pytest/testing, Docker basics, API implementation, no-AI interview coding fluency
 
 ---
 
 ## Teaching and technical communication
 
-I have supported students across programming, object-oriented programming, data structures and algorithms, machine learning, deep learning, operating systems, computer architecture, web applications, web security, and research literacy.
+Teaching is another strong passion of mine.
+
+I have mentored students across basic control flow, object-oriented programming, data structures and algorithms, machine learning, deep learning, operating systems, computer architecture, web applications, web security, and research literacy.
 
 A major part of my work is breaking technical topics down into teachable systems: concept maps, examples, misconceptions, checkpoints, and practice flows.
 
+I also independently study interpersonal communication and pedagogy, and I have served as a TA and held office hours to better understand how the brain learns and, more importantly, how learning systems differ in structure and individual effectiveness.
+
 ---
 
-## Portfolio status
-
-This GitHub is being built intentionally. Upcoming public repositories will include:
-
-- `mma-tp-ai-teaching-protocol`
-- `neural-networks-from-first-principles`
-- a small Python automation/testing repo
-- a limited TCG Verify portfolio summary, depending on publication strategy
+## Portfolio status disclaimer
 
 Some research artifacts are intentionally private or delayed until publication, co-author, and advisor boundaries are settled.
 
